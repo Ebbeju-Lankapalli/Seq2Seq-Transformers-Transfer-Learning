@@ -1,0 +1,14 @@
+Metric,Value
+Dataset Size,23281
+Training Examples,20952
+Validation Examples,2329
+Vocabulary Size,189
+Best Validation Loss,0.02094575438044361
+Best Epoch,2
+Final Training Loss,0.020130011677548926
+Final Validation Loss,0.022535770023996766
+Exact Match Accuracy,90.17%
+Required Accuracy,40%
+Total Parameters,887485
+Trainable Parameters,887485
+Trainable Percentage,100.00%
